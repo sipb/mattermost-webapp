@@ -3344,6 +3344,7 @@
   "signup_user_completed.haveAccount": "Zaten hesabınız var mı?",
   "signup_user_completed.invalid_invite": "Çağrı bağlantısı geçersiz. Lütfen bir çağrı göndermesi için yöneticiniz ile görüşün.",
   "signup_user_completed.lets": "Şimdi hesabınızı açalım",
+  "signup_user_completed.mismatch": "Kullanıcı adınız e-postanızla eşleşmelidir ('@' öncesindeki)",
   "signup_user_completed.no_open_server": "Sunucu hesap açılmasına izin vermiyor. Lütfen yöneticiniz ile görüşerek bir çağrı göndermesini isteyin.",
   "signup_user_completed.none": "Herhangi bir kullanıcı ekleme yöntemi etkinleştirilmemiş. Lütfen izin vermesi için bir yönetici ile görüşün.",
   "signup_user_completed.required": "Bu alan zorunludur",
