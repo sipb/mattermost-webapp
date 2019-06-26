@@ -2808,6 +2808,7 @@
   "signup_user_completed.haveAccount": "Hai già un account?",
   "signup_user_completed.invalid_invite": "Questo collegamento non è valido. Chiedi all'Amministratore per ricevere un altro invito.",
   "signup_user_completed.lets": "Crea il tuo account",
+  "signup_user_completed.mismatch": "Il tuo nome utente deve corrispondere alla tua email (prima di '@')",
   "signup_user_completed.no_open_server": "Questo server non permette la registrazione aperta. Chiedi all'Amministratore per ricevere un invito.",
   "signup_user_completed.none": "Non sono stati definiti metodi per creare un utente. Contatta l'Amministratore per accedere.",
   "signup_user_completed.required": "Il campo è richiesto",

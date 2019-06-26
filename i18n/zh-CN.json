@@ -2808,6 +2808,7 @@
   "signup_user_completed.haveAccount": "已有帐号？",
   "signup_user_completed.invalid_invite": "无效邀请链接。请询问您的管理员获得邀请。",
   "signup_user_completed.lets": "让我们创建您的帐户",
+  "signup_user_completed.mismatch": "您的用户名必须与您的电子邮件相符（在'@'之前）",
   "signup_user_completed.no_open_server": "服务器不开放注册。请联系您的管理员询问邀请。",
   "signup_user_completed.none": "没有启用用户创建方法。请联系管理员。",
   "signup_user_completed.required": "该字段不能为空",

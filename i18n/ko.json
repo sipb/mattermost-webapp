@@ -2808,6 +2808,7 @@
   "signup_user_completed.haveAccount": "이미 계정이 있나요?",
   "signup_user_completed.invalid_invite": "The invite link was invalid.  Please speak with your Administrator to receive an invitation.",
   "signup_user_completed.lets": "계정을 생성하고 시작해보세요!",
+  "signup_user_completed.mismatch": "사용자 이름은 이메일과 일치해야합니다 ( '@'앞).",
   "signup_user_completed.no_open_server": "This server does not allow open signups.  Please speak with your Administrator to receive an invitation.",
   "signup_user_completed.none": "No user creation method has been enabled.  Please contact an administrator for access.",
   "signup_user_completed.required": "필수 항목입니다.",

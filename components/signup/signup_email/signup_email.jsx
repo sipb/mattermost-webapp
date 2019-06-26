@@ -188,6 +188,15 @@ export default class SignupEmail extends React.Component {
             });
             return false;
         }
+        if (providedUsername != providedEmail.split('@')[0]) {
+            this.setState({
+                nameError: (<FormattedMessage id='signup_user_completed.mismatch'/>),
+                emailError: '',
+                passwordError: '',
+                serverError: '',
+            });
+            return false;
+        }
 
         const providedPassword = this.refs.password.value;
         const {valid, error} = Utils.isValidPassword(providedPassword, this.props.passwordConfig);

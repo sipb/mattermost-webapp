@@ -2807,6 +2807,7 @@
   "signup_user_completed.haveAccount": "Already have an account?",
   "signup_user_completed.invalid_invite": "The invite link was invalid.  Please speak with your Administrator to receive an invitation.",
   "signup_user_completed.lets": "Let's create your account",
+  "signup_user_completed.mismatch": "Your username must match your email (before the '@')",
   "signup_user_completed.no_open_server": "This server does not allow open signups.  Please speak with your Administrator to receive an invitation.",
   "signup_user_completed.none": "No user creation method has been enabled.  Please contact an administrator for access.",
   "signup_user_completed.required": "This field is required",

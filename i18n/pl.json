@@ -2808,6 +2808,7 @@
   "signup_user_completed.haveAccount": "Masz już konto?",
   "signup_user_completed.invalid_invite": "Link zaproszenia był nieprawidłowy. Proszę porozmawiać z administratorem, aby otrzymać zaproszenie.",
   "signup_user_completed.lets": "Teraz stwórzmy twoje konto",
+  "signup_user_completed.mismatch": "Twoja nazwa użytkownika musi pasować do Twojego adresu e-mail (przed '@')",
   "signup_user_completed.no_open_server": "Ten serwer nie zezwala na otwarte rejestracje. Proszę porozmawiać z administratorem, aby otrzymać zaproszenie.",
   "signup_user_completed.none": "Rejestracja nowych kont została wyłączona.  Proszę skontaktować się z Administratorem.",
   "signup_user_completed.required": "To pole jest wymagane",

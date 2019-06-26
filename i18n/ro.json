@@ -2808,6 +2808,7 @@
   "signup_user_completed.haveAccount": "Ai deja un cont?",
   "signup_user_completed.invalid_invite": "Linia de invitație a fost nevalidă. Vorbiți cu administratorul dvs. pentru a primi o invitație.",
   "signup_user_completed.lets": "Să vă creăm contul",
+  "signup_user_completed.mismatch": "Numele de utilizator trebuie să corespundă e-mailului dvs. (înainte de '@')",
   "signup_user_completed.no_open_server": "Acest server nu permite open signups.  Va rugam sa vorbesc cu administratorul să primească o invitaţie.",
   "signup_user_completed.none": "Nu a fost activată nicio metodă de creare a utilizatorului. Contactați un administrator pentru acces.",
   "signup_user_completed.required": "Acest câmp este obligatoriu",

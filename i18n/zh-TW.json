@@ -2808,6 +2808,7 @@
   "signup_user_completed.haveAccount": "已經有帳號了？",
   "signup_user_completed.invalid_invite": "無效的邀請連結。請聯絡管理員。",
   "signup_user_completed.lets": "讓我們來建立帳號吧",
+  "signup_user_completed.mismatch": "您的用戶名必須與您的電子郵件相符（在'@'之前",
   "signup_user_completed.no_open_server": "此伺服器不開放註冊。請聯絡管理員索要邀請。",
   "signup_user_completed.none": "沒有啟用的使用者建立方式。請聯絡系統管理員。",
   "signup_user_completed.required": "此欄位是必需的",

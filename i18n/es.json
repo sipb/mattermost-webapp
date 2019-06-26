@@ -2808,6 +2808,7 @@
   "signup_user_completed.haveAccount": "Ya tienes una cuenta?",
   "signup_user_completed.invalid_invite": "El enlace de invitación es inválido.  Por favor habla con tu administrador para recibir una invitación.",
   "signup_user_completed.lets": "Vamos a crear tu cuenta",
+  "signup_user_completed.mismatch": "Su nombre de usuario debe coincidir con su correo electrónico (antes de la '@')",
   "signup_user_completed.no_open_server": "Este servidor no acepta registros abiertos.  Por favor habla con tu administrador para recibir una invitación.",
   "signup_user_completed.none": "No está habilitado ningún método para crear usuarios. Por favor contacta a un administrador para obtener acceso.",
   "signup_user_completed.required": "Este campo es obligatorio",

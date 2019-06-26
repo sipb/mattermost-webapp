@@ -2808,6 +2808,7 @@
   "signup_user_completed.haveAccount": "Heb je al een account?",
   "signup_user_completed.invalid_invite": "De uitnodigings link was verkeerd. Praat alstublieft met jouw beheerder om een uitnodiging te krijgen.",
   "signup_user_completed.lets": "Laten we uw account aanmaken",
+  "signup_user_completed.mismatch": "Uw gebruikersnaam moet overeenkomen met uw e-mailadres (vóór de '@')",
   "signup_user_completed.no_open_server": "De server staat geen open inschrijvingen toe. Praat alstublieft met jouw beheerder om een uitnodiging te krijgen. ",
   "signup_user_completed.none": "Er is geen mogelijkheid ingeschakeld om gebruikers aan te maken.  Neem contact op met een beheerder voor toegang.",
   "signup_user_completed.required": "Dit veld is verplicht",
