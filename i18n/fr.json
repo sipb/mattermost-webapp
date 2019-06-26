@@ -3577,6 +3577,7 @@
   "signup_user_completed.haveAccount": "Vous avez déjà un compte?",
   "signup_user_completed.invalid_invite": "Le lien d'invitation était invalide. Veuillez contacter votre administrateur système pour recevoir une invitation.",
   "signup_user_completed.lets": "Créons votre compte",
+  "signup_user_completed.mismatch": "Votre identifiant doit correspondre à votre email (avant le '@')",
   "signup_user_completed.no_open_server": "Ce serveur ne permet pas d'inscriptions ouvertes. Contactez votre administrateur pour recevoir une invitation",
   "signup_user_completed.none": "Aucune méthode de création d'utilisateur n'est disponible. Veuillez contacter votre administrateur système pour obtenir un accès.",
   "signup_user_completed.required": "Ce champ est obligatoire",

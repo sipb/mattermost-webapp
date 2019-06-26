@@ -3400,6 +3400,7 @@
   "signup_user_completed.haveAccount": "Sie besitzen bereits ein Konto?",
   "signup_user_completed.invalid_invite": "Der Einladungslink war ungültig.  Bitte sprechen Sie mit ihrem Administrator, um eine Einladung zu erhalten.",
   "signup_user_completed.lets": "Ein eigenes Konto erstellen",
+  "signup_user_completed.mismatch": "Ihr Benutzername muss mit Ihrer E-Mail übereinstimmen (vor dem '@')",
   "signup_user_completed.no_open_server": "Dieser Server erlaubt keine offenen Registrierungen.  Bitten Sie ihren Administrator um eine Einladung.",
   "signup_user_completed.none": "Keine Benutzererstellungsmethode wurde aktiviert.  Bitte kontaktieren Sie einen Administrator.",
   "signup_user_completed.required": "Dieses Feld ist erforderlich",

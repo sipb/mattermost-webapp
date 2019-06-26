@@ -3019,6 +3019,7 @@
   "signup_user_completed.haveAccount": "이미 계정이 있나요?",
   "signup_user_completed.invalid_invite": "초대 링크가 유효하지 않습니다.  다시 초대를 요청해주세요.",
   "signup_user_completed.lets": "계정을 생성하고 시작해보세요!",
+  "signup_user_completed.mismatch": "사용자 이름은 이메일과 일치해야합니다 ( '@'앞).",
   "signup_user_completed.no_open_server": "This server does not allow open signups.  Please speak with your Administrator to receive an invitation.",
   "signup_user_completed.required": "필수 항목입니다.",
   "signup_user_completed.reserved": "이미 사용중인 이름입니다.",
