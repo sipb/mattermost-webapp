@@ -56,7 +56,10 @@ function makeMapStateToProps() {
         if (previousPost) {
             consecutivePostByUser = post.user_id === previousPost.user_id && // The post is by the same user
                 post.create_at - previousPost.create_at <= Posts.POST_COLLAPSE_TIMEOUT && // And was within a short time period
-                !(post.props && post.props.from_webhook) && !(previousPost.props && previousPost.props.from_webhook) && // And neither is from a webhook
+                (
+                    (!(post.props && post.props.from_webhook) && !(previousPost.props && previousPost.props.from_webhook)) || // And neither is from a webhook
+                    (post.props && previousPost.props && post.props.override_username == previousPost.props.override_username) // or they're from the same overridden user
+                ) &&
                 !isSystemMessage(post) && !isSystemMessage(previousPost); // And neither is a system message
 
             previousPostIsComment = Boolean(previousPost.root_id);

@@ -332,7 +332,7 @@ class Post extends React.PureComponent {
         const isMeMessage = checkIsMeMessage(post);
         const fromAutoResponder = PostUtils.fromAutoResponder(post);
         const fromWebhook = post && post.props && post.props.from_webhook === 'true';
-        const fromBot = post && post.props && post.props.from_bot === 'true';
+        const fromBot = post && post.props && post.props.from_bot === 'true' && post.props.from_zephyr !== 'true';
 
         let profilePic;
         const hideProfilePicture = this.hasSameRoot(this.props) && this.props.consecutivePostByUser && (!post.root_id && this.props.replyCount === 0) && !fromBot;
